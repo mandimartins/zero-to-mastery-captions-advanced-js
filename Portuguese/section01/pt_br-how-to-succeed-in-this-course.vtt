@@ -1,0 +1,218 @@
+WEBVTT
+
+00:00.720 --> 00:09.330
+O que javascript avançado significa? todo mundo tem uma idéia diferente do que é necessário no avançado. Para ter
+
+00:09.330 --> 00:12.240
+certeza de que o curso possa ser aproveitado por todos
+
+00:12.660 --> 00:18.840
+eu o estruturei de uma maneira única que, embora todos comecem em níveis diferentes
+
+00:18.900 --> 00:23.740
+de conhecimento, todos vocês vão terminar no mesmo patamar.
+
+00:23.760 --> 00:24.450
+Vamos dar uma olhada.
+
+00:25.820 --> 00:34.520
+Esta é a nossa grade curricular, o curso começa com os fundamentos para ter certeza que tenhamos
+
+00:34.520 --> 00:38.590
+todas a ferramentas necessárias para aprender as melhores práticas,
+
+00:38.780 --> 00:46.130
+tópicos avançados e como escrever código limpo. Vamos nos aprofundar em coisas como o motor
+
+00:46.160 --> 00:53.270
+do javascript, falar de interpretadores, compiladores e compiladores JIT, falaremos sobre todos esses
+
+00:53.270 --> 00:54.230
+tópicos.
+
+00:54.230 --> 00:59.450
+Alguns deles são bem avançados. E então vamos nos aprofundar na linguagem.
+
+00:59.450 --> 01:04.550
+Vamos falar sobre termos importantes que talvez você tenha ouvido, mas não entendeu, como contexto de
+
+01:04.550 --> 01:09.760
+execução, contexto léxico, escopo dinamico e espoco léxico.
+
+01:10.130 --> 01:17.300
+Assim que terminarmos os fundamentos e tivermos certeza que estamos prontos para tópicos mais avançados daremos
+
+01:17.300 --> 01:19.900
+início aos tipos do JavaScript.
+
+01:20.120 --> 01:27.140
+Falaremos sobre linguagens de tipos estáticos e dinâmicos, coerção de tipos, tipos passados por referencia e
+
+01:27.140 --> 01:31.260
+por valor e então vamos falar sobre algo muito importante.
+
+01:31.400 --> 01:39.260
+Os dois pilares. Algo que faz o javascript realmente poderoso, esses dois pilares serão 
+
+01:39.260 --> 01:42.110
+closures e herança prototipada.
+
+01:42.110 --> 01:48.410
+Talvez você conheça esse assunto, mas nós vamos aprofundar e entender o motivo de eles serem
+
+01:48.410 --> 01:51.520
+tão poderosos, resultando em bons sistemas.
+
+01:52.040 --> 01:52.920
+Durante a jornada
+
+01:52.920 --> 01:59.240
+nós vamos falar sobre outros assuntos também, mas tudo isso é porque precisamos estar preparados para falar sobre
+
+01:59.630 --> 02:01.710
+paradigmas de programação.
+
+02:01.730 --> 02:03.520
+É ai que está a diversão.
+
+02:04.160 --> 02:12.800
+Nós usamos todo o conhecimento que obtemos até agora para falar de como estruturar o nosso código, organizar o 
+
+02:12.800 --> 02:15.830
+nosso código e escrever belos sistemas.
+
+02:15.920 --> 02:19.910
+Nós vamos falar de duas maneiras de estruturar nosso código.
+
+02:20.060 --> 02:23.430
+Um é orientação a objeto e o outro
+
+02:23.480 --> 02:25.460
+programação funcional.
+
+02:25.460 --> 02:31.700
+Nos vamos aprofundar em cada um desses tópicos e também falar sobre composição versus
+
+02:31.730 --> 02:32.770
+herança.
+
+02:32.960 --> 02:40.040
+Por fim você vai aprender alguns paradigmas que levaram anos e anos, decadas para programadores 
+
+02:40.310 --> 02:46.520
+aprender o que essas boas práticas são.
+Para encerrar
+
+02:46.610 --> 02:52.760
+eu tenho algumas sessões extras para ir além e aprender assuntos importantes como javascript assíncrono,
+
+02:53.150 --> 02:59.870
+modulos e javascript, aprender a história dos modulos e, também, um assunto frequentemente 
+
+02:59.870 --> 03:03.240
+esquecido; tratamento de erros e como fazer apropriadamente.
+
+03:03.890 --> 03:07.410
+Há uma pequena sessão de estrutura de dados também.
+
+03:07.550 --> 03:15.240
+como resultado este é o caminho para você se tornar parte dos top 10% programadores javascript.
+
+03:15.260 --> 03:21.680
+A ideia é nos começarmos construindo nossa piramide com os fundamentos e depois subir essa 
+
+03:21.680 --> 03:24.300
+piramide um passo de cada vez
+
+03:24.440 --> 03:30.380
+Se em algum dos vídeos você achar o assunto muito difícil ou avançado demais eu anexei uma seção apêndice
+
+03:30.680 --> 03:34.790
+que te ensina o básico do javascript.
+
+03:34.790 --> 03:40.760
+Dessa forma, não importa o seu nível, você tem uma maneira de aprender em cada um dos vídeos e referenciar um
+
+03:40.790 --> 03:42.350
+vídeo mais facíl no apêndice
+
+03:42.350 --> 03:49.520
+se você precisa de mais explicação. Para progamadores avançados. Algumas das sessões podem ser muito fáceis
+
+03:49.520 --> 03:55.580
+para você, mas eu recomento você dar uma olhada lá já que cada sessão depende da outra e você aprenderá
+
+03:55.580 --> 03:56.720
+alguma coisa no caminho
+
+03:57.020 --> 04:00.550
+eu prometo. Agora, para obter o melhor desse curso
+
+04:00.590 --> 04:07.150
+você deveria seguir as lições em ordem já que você pode sacar uma coisa ou outra. Mesmo se você pensou "Oh Andrei"
+
+04:07.160 --> 04:08.290
+"eu faço do jeito que eu quiser"
+
+04:08.330 --> 04:10.710
+"eu ja sei essas coisas".
+
+04:10.710 --> 04:18.950
+Ok, agora que você tem uma ideia de como será o curso vamos falar sobre o que significa ter sucesso neste curso.
+
+04:18.950 --> 04:25.290
+Primeiro certifique-se de usar a nossa comunidade online no discord para se comunicar com os outros estudantes.
+
+04:25.310 --> 04:27.230
+é como uma sala de aula.
+
+04:27.230 --> 04:28.220
+Faça perguntas.
+
+04:28.220 --> 04:32.010
+Faça desafios e converse sobre os exercicios.
+
+04:32.180 --> 04:37.670
+Quando se trata de programação não há nada melhor do que fazer perguntas e ajudar os outros.
+
+04:37.670 --> 04:44.030
+Esta é a comunidade de desenvolvedores mais ativa da udemy com cerca de mil desenvolvedores online a qualquer
+
+04:44.030 --> 04:46.690
+momento.
+
+04:46.870 --> 04:52.280
+Todas as vezes que você sentir que está apenas assistindo os videos e não está entendendo o assunto
+
+04:52.280 --> 04:56.660
+pare o que você está fazendo, dê uma pause e depois volte para o problema.
+
+04:56.960 --> 04:59.850
+Você não vai terminar este curso em uma semana.
+
+05:00.020 --> 05:04.520
+Se você fizer tudo apropriadamente vai levar cerca de um mês para terminar tudo.
+
+05:04.610 --> 05:05.890
+Então faça no seu tempo.
+
+05:05.900 --> 05:08.780
+Isso não é uma maratona.
+
+05:08.780 --> 05:13.160
+Finalmente, tente completar o curso em vez de partes dele.
+
+05:13.160 --> 05:19.580
+Muitas lições são dependentes uma da outra para elas terem um fluxo e possamos construir nossa piramide de conhecimento.
+
+05:19.580 --> 05:26.440
+Vamos começar do mais básico e ir para tópicos mais avançados. Tudo bem, chega de falar.
+
+05:26.910 --> 05:32.430
+Acho que é hora de começarmos o curso e se preparar para ser parte dos top 10% dos 
+
+05:32.700 --> 05:33.960
+desenvolvedores javascript.
+
+05:33.960 --> 05:36.480
+Vamos começar. Te vejo na próxima seção.
